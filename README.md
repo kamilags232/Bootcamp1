@@ -44,4 +44,4 @@ Busco oportunidades como estagiária na área de tecnologia, onde eu possa aplic
 
 ## 📁 Projetos
 - [Python](https://github.com/anne-cgm/Bootcamp-I/tree/main/Python)
-- [C](https://github.com/anne-cgm/Bootcamp-I/tree/main/C)
+
