@@ -1,19 +1,19 @@
 # Bootcamp 1
-#🎓 Portfólio Acadêmico - Kamila Gomes da Silva
+# Portfólio Acadêmico - Kamila Gomes da Silva
 
 Bem-vindo(a) ao meu repositório de portfólio acadêmico!  
 Sou estudante de **Ciência da Computação** no UniCEUB, apaixonada por tecnologia, design visual e soluções criativas que unem arte e código.
 
-## 👩‍💻 Sobre Mim
+## Sobre Mim
 
-- 🎨 Ilustradora digital e criadora de estampas
-- 💻 Desenvolvo sites com plataformas visuais (Wix, Canva)
-- 📍 Planaltina, Distrito Federal
-- 📧 Contato: kamila.gs@sempreceub.com
+-  Ilustradora digital e criadora de estampas
+-  Desenvolvo sites com plataformas visuais (Wix, Canva)
+-  Planaltina, Distrito Federal
+-  Contato: kamila.gs@sempreceub.com
 
 Busco oportunidades como estagiária na área de tecnologia, onde eu possa aplicar minha **criatividade**, habilidades com **design visual** e **conhecimentos em programação**, especialmente em projetos que envolvem **arte e tecnologia**.
 
-## 🧠 Competências
+##  Competências
 
 ### Técnicas
 - Python (básico) – lógica de programação e manipulação de dados simples
@@ -30,12 +30,12 @@ Busco oportunidades como estagiária na área de tecnologia, onde eu possa aplic
 - Atenção aos detalhes
 - Organização e autonomia em projetos
 
-## 🎓 Formação
+##  Formação
 
 - **Ciência da Computação** – UniCEUB (1º semestre)
 - Ensino Médio – Centro Educacional Delta (Planaltina - DF)
 
-## 💼 Experiências
+##  Experiências
 
 - Criação de sites personalizados com foco em identidade visual
 - Venda de artes digitais como freelancer
