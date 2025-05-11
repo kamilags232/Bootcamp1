@@ -10,7 +10,7 @@ Sou estudante de **Ciência da Computação** no UniCEUB, apaixonada por tecnolo
 -  Desenvolvo sites com plataformas visuais (Wix, Canva)
 -  Planaltina, Distrito Federal
 -  Contato: kamila.gs@sempreceub.com
-
+-  Linkedin: https://www.linkedin.com/in/kamila-gomes-da-silva-83050a365/
 Busco oportunidades como estagiária na área de tecnologia, onde eu possa aplicar minha **criatividade**, habilidades com **design visual** e **conhecimentos em programação**, especialmente em projetos que envolvem **arte e tecnologia**.
 
 ##  Competências
