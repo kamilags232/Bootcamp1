@@ -44,5 +44,5 @@ Busco oportunidades como estagiária na área de tecnologia, onde eu possa aplic
 - Violinista por hobby, com interesse em tocar profissionalmente
 
 ## 📁 Projetos
-- [Python](https://github.com/anne-cgm/Bootcamp-I/tree/main/Python)
+- [Python](https://github.com/kamilags232/Bootcamp1/tree/main/Python)
 
